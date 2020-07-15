@@ -1,5 +1,5 @@
 """
-Формула Лейбница: pi = 4/1 - 4/3 + 4/5 - 4/7 + 4/9 -4/11...
+Leibniz formula: pi = 4/1 - 4/3 + 4/5 - 4/7 + 4/9 -4/11...
 """
 
 def calculate_pi(n_terms: int) -> float:
